@@ -12,3 +12,5 @@ vamos a escribir un poema
 comenzando en la linea 12
 
 agregamos cosas desde la rama awesome
+
+vamos a crear un merge conflict en la linea 16 (awesome branch)
