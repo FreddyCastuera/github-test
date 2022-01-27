@@ -14,3 +14,4 @@ comenzando en la linea 12
 agregamos cosas desde la rama awesome
 
 vamos a crear un merge conflict en la linea 16 (awesome branch)
+vamos a modificar el mensaje del commit
