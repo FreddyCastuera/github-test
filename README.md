@@ -4,3 +4,4 @@ a fact-paced course for getting up to speed with Git and Github
 
 more things to learn still
 we made some change on the remote repo so we need to update de local repo
+this changes were made in the local repo
